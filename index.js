@@ -52,7 +52,7 @@ function generowanie() {
     const liczby = []
 
     const start = 10; // początek
-    const end = 300; // koniec
+    const end = 1000; // koniec
     const step = 5; // krok
 
     for (let i = start; i <= end; i += step) liczby.push(i);
